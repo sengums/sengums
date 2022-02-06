@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sengums
+- 👋 Hi, I’m Moloy Sengupta
 - 👀 I’m interested in being advocate of DevOps in my organisation
 - 🌱 I’m currently learning automation of build, test and deploy
 - 💞️ I’m looking to collaborate on best practices and quick start on automated build, test, deploy
